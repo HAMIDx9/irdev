@@ -1,0 +1,8 @@
+<aegis>
+	<request policy="add">
+
+        </request>
+
+	<for path="/opt/irdev/bin/irdev" />
+	<for path="applauncherd-launcher::/usr/bin/applauncherd.bin" id="" />
+</aegis>

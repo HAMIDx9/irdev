@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Fri, 09 Nov 2012 19:48:22 +0330
+Source: irdev
+Binary: irdev
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: Hamid Zamani (aka HAMIDx9)
+Changed-By: Hamid Zamani (aka HAMIDx9) <>
+Description: 
+ irdev      - This program allow you to enable Developer-mode
+Changes: 
+ irdev (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 21321468dd46dcae252c6f70607231ebf1790610 37380 irdev_0.0.1_armel.deb
+Checksums-Sha256: 
+ f1a52b5fff6f01ca4c85ec1efce111d9962522fdbdf66d22e165cb914456ad52 37380 irdev_0.0.1_armel.deb
+Files: 
+ 317b69d602d7aa1e4f0972bc1e269b56 37380 user/other optional irdev_0.0.1_armel.deb
+Maemo-Display-Name: irdev
